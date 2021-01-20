@@ -37,10 +37,10 @@ void insert(int x, int index, elem *&list) {
     }
 }
 
-void remove(elem *&lista) {
-    elem *wsk = lista;
-    lista = lista->next;
-    delete wsk;
+void remove(elem *&list) {
+    elem *pointer = list;
+    list = list->next;
+    delete pointer;
 }
 
 void remove(int i, elem *&list) {
