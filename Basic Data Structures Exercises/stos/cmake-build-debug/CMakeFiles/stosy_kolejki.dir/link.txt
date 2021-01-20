@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/stosy_kolejki.dir/Stos.cpp.o  -o stosy_kolejki.exe -Wl,--out-implib,libstosy_kolejki.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
