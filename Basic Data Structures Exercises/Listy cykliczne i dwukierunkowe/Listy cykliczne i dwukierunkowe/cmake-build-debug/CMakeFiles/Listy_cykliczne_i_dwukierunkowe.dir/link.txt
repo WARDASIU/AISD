@@ -1,1 +1,0 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Listy_cykliczne_i_dwukierunkowe.dir/main.cpp.o  -o Listy_cykliczne_i_dwukierunkowe.exe -Wl,--out-implib,libListy_cykliczne_i_dwukierunkowe.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
