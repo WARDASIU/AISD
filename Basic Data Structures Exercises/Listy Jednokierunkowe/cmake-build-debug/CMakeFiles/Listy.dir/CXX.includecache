@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/JetBeansProducts/MojeCwiczenia/Basic Data Structures Exercises/Listy/Listy Jednokierunkowe.cpp
+iostream
+-
+
+/cygdrive/d/JetBeansProducts/MojeCwiczenia/Basic Data Structures Exercises/Listy/cmake-build-debug/elem.cpp
+elem.h
+/cygdrive/d/JetBeansProducts/MojeCwiczenia/Basic Data Structures Exercises/Listy/cmake-build-debug/elem.h
+
+/cygdrive/d/JetBeansProducts/MojeCwiczenia/Basic Data Structures Exercises/Listy/cmake-build-debug/elem.h
+
