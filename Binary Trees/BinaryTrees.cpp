@@ -257,7 +257,7 @@ node* create_perfect_tree(int* a, const int k){
 }
 
 int main() {
-    //testZad7(); // preorder i inorder wzraca tą samą wartość w przypadku braku lewych rozgałęźień
+    //testZad7(); // preorder i inorder wzraca tą samą wartosc w przypadku braku lewych rozgałęzien
     //testZad9();
     testZad10();
 }
