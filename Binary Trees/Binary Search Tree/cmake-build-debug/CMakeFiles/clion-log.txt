@@ -1,4 +1,0 @@
-C:\Users\Admin\.CLion2019.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/d/JetBeansProducts/MojeCwiczenia/Binary Search Tree"
--- Configuring done
--- Generating done
--- Build files have been written to: /cygdrive/d/JetBeansProducts/MojeCwiczenia/Binary Search Tree/cmake-build-debug

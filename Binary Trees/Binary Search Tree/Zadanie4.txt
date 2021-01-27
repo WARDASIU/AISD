@@ -1,4 +1,0 @@
-Przypadki C i E nie mogą zostać sprawdzone, ponieważ:
-
-C) wartość 912 jest lewym wnukiem 911. Przypadek C nie jest drzewem BST.
-D) wartość 299 jest prawym wnukiem 347. Przypadek E nie jest drzewem BST.
